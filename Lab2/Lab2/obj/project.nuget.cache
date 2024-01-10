@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3H7bgY4vyXJ2gu8SsSBod3FB2+Sc533ZZ6G7HENoV5nQKOSCdZp4QuR/xG2qp1j/uvvG4u23VlclyRuYhSFCFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Lab2\\Lab2\\Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
