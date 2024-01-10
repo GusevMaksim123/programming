@@ -6,7 +6,7 @@ using System.Xml;
 using System.Xml.Serialization;
 using System.Data.SQLite;
 
-namespace WebApplication1
+namespace Lab3
 {
     public class WordsDictionary
     {
